@@ -111,7 +111,7 @@ def generate_answer(user_query, context_documents):
 
 # UI Configuration
 
-st.title("📘 DocuMind AI")
+st.title("📘 AI pdf Assistant")
 st.markdown("### Your Intelligent Document Assistant")
 st.markdown("---")
 
